@@ -7,6 +7,8 @@
 
 ## 🔍 Project Overview
 
+http://localhost:8501/
+
 Businesses rely on accurate sales forecasts to make informed decisions regarding inventory management, budgeting, workforce planning, and revenue growth.
 
 This project leverages **Facebook Prophet**, a powerful time-series forecasting model, to predict future sales trends based on historical sales data. The results are presented through an interactive **Streamlit Dashboard** that provides actionable business insights.
